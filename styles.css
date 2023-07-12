@@ -1,0 +1,37 @@
+body {
+    background-color: lightgoldenrodyellow;
+  }
+
+ 
+  .s1 {
+width: 5cm;
+height: 5cm;
+background-color: lightgreen;
+border:5mm black;
+margin-top: 100px;
+position: absolute;
+margin-left: 9cm;
+  }
+  .s2{
+    position: absolute;
+    width: 5cm;
+height: 5cm;
+background-color: rgb(45, 37, 37);
+border:5mm black;
+margin-left: 14cm;
+margin-bottom: 5cm;
+margin-top: 100px;
+
+
+  }
+  .s3{
+    position: absolute;
+    width: 5cm;
+height: 5cm;
+background-color: lightblue;
+border:5mm black;
+margin-left: 19cm;
+margin-bottom:5cm;
+margin-top :100px; 
+
+  }
